@@ -29,9 +29,11 @@ The main analysis and model training can be found in the Jupyter notebook `22081
 ## Usage
 
 1. Clone this repository.
-2. Open the `22081255_CW1_code.ipynb` file in a Jupyter notebook environment.
+2. Open the `PYTHON_CODE.ipynb` file in a Jupyter notebook environment.
 3. Execute the notebook to reproduce the analysis and predictions.
 
 ## License
 
-[License details or reference to a LICENSE file]
+This project is licensed under the [MIT License](LICENSE), offering you the freedom to adapt and modify it to suit your unique needs. [Click here](LICENSE) to view the full license.
+
+Explore, adapt, and utilize this project as a launchpad for crafting your own interactive Streamlit dashboards. Here's to illuminating data exploration!
